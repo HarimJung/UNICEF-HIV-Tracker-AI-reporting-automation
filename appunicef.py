@@ -18,7 +18,7 @@ st.set_page_config(layout="wide")
 
 # 1. Reflect user-provided API Key (updated with new key)
 # 🚨 This is the new key.
-OPENAI_API_KEY = "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".strip()
+OPENAI_API_KEY = "yourOpenAI API Key".strip()
 
 # 2. Reflect user-provided Tableau URL (HIV Dashboard URL)
 TABLEAU_BASE_URL = "https://public.tableau.com/views/UNICEFHIVTech_AI/UNICEFHIVTechAI?:showVizHome=no&:embed=true"
