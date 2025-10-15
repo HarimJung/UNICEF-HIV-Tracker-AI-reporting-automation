@@ -81,7 +81,8 @@ The framework is built upon robust, version-controlled modules designed for **sc
   * **Modular ETL:** Uses Pandas to systematically ingest and **harmonize longitudinal time-series data** from diverse global health sources.
   * **Guaranteed Reproducibility:** All transformation logic (`create_hiv_data.py`) is scripted, ensuring every analytical output is **fully traceable** and reproducible across refreshes.
   * **Indicator Standardization:** Enforces standardization of critical metrics (`ART_Coverage`, `Annual_New_Infections`, `MTCT_Rate`) for robust cross-country and regional comparison.
-<img width="1802" height="1033" alt="Screenshot 2025-10-14 at 8 13 41 PM" src="https://github.com/user-attachments/assets/1b18060c-1d29-4263-a4f0-3a5b9f670bfd" />
+<img width="1856" height="1042" alt="Screenshot 2025-10-14 at 8 13 31 PM" src="https://github.com/user-attachments/assets/835414b1-2a54-44aa-9e35-e2b56a821cc8" />
+
 
   * 
 
