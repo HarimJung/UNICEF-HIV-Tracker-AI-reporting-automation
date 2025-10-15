@@ -67,7 +67,7 @@ Start the interactive Streamlit web application to begin data exploration and au
 
 ```bash
 # Launch the interactive analysis dashboard
-streamlit run app.py
+streamlit run appunicef.py
 ```
 
 -----
