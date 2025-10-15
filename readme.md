@@ -100,3 +100,7 @@ The framework is built upon robust, version-controlled modules designed for **sc
   * **Automated Policy Guidance:** The LLM automatically generates **actionable policy priorities** and strategic recommendations based on detected data patterns (e.g., trend divergence, coverage gaps).
   * **Output Optimization for Delivery:** Produces structured text optimized for immediate use in **presentation slides** and **executive briefings**, drastically reducing manual reporting effort.
 <img width="1856" height="1042" alt="Screenshot 2025-10-14 at 8 13 31 PM" src="https://github.com/user-attachments/assets/835414b1-2a54-44aa-9e35-e2b56a821cc8" />
+
+https://youtu.be/0oU9B-VIt-w
+
+
