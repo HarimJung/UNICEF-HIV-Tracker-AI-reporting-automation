@@ -102,7 +102,7 @@ The framework is built upon robust, version-controlled modules designed for **sc
 <img width="1856" height="1042" alt="Screenshot 2025-10-14 at 8 13 31 PM" src="https://github.com/user-attachments/assets/835414b1-2a54-44aa-9e35-e2b56a821cc8" />
 
 
-### Watch on YouTube
+### Watch the demo
 [![Watch on YouTube](https://img.youtube.com/vi/0oU9B-VIt-w/maxresdefault.jpg)](https://youtu.be/0oU9B-VIt-w)
 
 
