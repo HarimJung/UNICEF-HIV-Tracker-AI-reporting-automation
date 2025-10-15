@@ -18,7 +18,7 @@ st.set_page_config(layout="wide")
 
 # 1. 사용자 제공 API 키 반영 (새로운 키로 업데이트됨)
 # 🚨 이 키는 새로운 키입니다.
-OPENAI_API_KEY = "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".strip()
+OPENAI_API_KEY = "yourAPIKey".strip()
 
 # 2. 사용자 제공 Tableau URL 반영 (HIV 대시보드 URL)
 TABLEAU_BASE_URL = "https://public.tableau.com/views/UNICEFHIVTech_AI/UNICEFHIVReporting?:showVizHome=no&:embed=true"
